@@ -70,6 +70,11 @@ Desde el punto de vista de mantenimiento, la contenerización simplifica las act
 
 De acuerdo con García Notario [2], un análisis correcto de requisitos y una adecuada planificación técnica permiten incrementar la calidad y fiabilidad de los sistemas software. En consecuencia, la solución implementada cumple con los requisitos de seguridad, disponibilidad y escalabilidad exigidos en entornos profesionales modernos.
 
+# 2. Estimación de Costes de Infraestructura
+
+[Presupuesto_Cloud_Proyecto. - Hoja 1.pdf](https://github.com/user-attachments/files/28148853/Presupuesto_Cloud_Proyecto.-.Hoja.1.pdf)
+
+
 # Referencias
 
 [1] Drake, J. M. (2008). *Análisis de requisitos y especificación de una aplicación*. Disponible en:  
