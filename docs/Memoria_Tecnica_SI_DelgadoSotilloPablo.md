@@ -76,6 +76,16 @@ De acuerdo con García Notario [2], un análisis correcto de requisitos y una ad
 
 # 3. Estrategia de Despliegue y Comunicación.
 
+Para desplegar la aplicación en producción se utilizará SFTP (SSH File Transfer Protocol), ya que permite transferir archivos de manera cifrada mediante el protocolo SSH. A diferencia del FTP tradicional, que envía las credenciales en texto plano, SFTP protege la información frente a ataques de interceptación y accesos no autorizados. El servidor utilizará el puerto 22 y autenticación mediante claves SSH para aumentar la seguridad. Además, el despliegue podrá automatizarse con herramientas como GitHub Actions para subir versiones de forma segura al entorno cloud. El equipo utilizará Microsoft Teams y Discord para comunicar incidencias técnicas, coordinar tareas y recibir alertas automáticas del servidor en caso de caídas o errores críticos mediante integraciones webhook.
+
+# 4. Justificación Científica.
+
+
+
+## Referancias IEEE
+
+
+
 # Referencias
 
 [1] Drake, J. M. (2008). *Análisis de requisitos y especificación de una aplicación*. Disponible en:  
