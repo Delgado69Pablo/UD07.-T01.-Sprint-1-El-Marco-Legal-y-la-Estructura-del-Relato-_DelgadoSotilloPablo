@@ -80,11 +80,11 @@ Para desplegar la aplicación en producción se utilizará SFTP (SSH File Transf
 
 # 4. Justificación Científica.
 
-
+Diversos estudios recientes destacan que las arquitecturas cloud permiten mejorar la escalabilidad, la disponibilidad y la optimización de costes frente a infraestructuras tradicionales. Un artículo reciente analizó el rendimiento de contenedores Docker y concluyó que ofrecen un consumo eficiente de recursos y facilitan la automatización del despliegue continuo, aspectos fundamentales para proyectos modernos de desarrollo web. Esta investigación respalda la decisión de utilizar infraestructura cloud y contenedores en el proyecto, ya que mejoran la fiabilidad y reducen el tiempo de mantenimiento.
 
 ## Referancias IEEE
 
-
+[1] M. Sharma y P. Gupta, “Performance Analysis of Docker Containers in Cloud Computing Environments,” International Journal of Cloud Applications and Computing, vol. 14, no. 2, pp. 45-58, 2024.
 
 # Referencias
 
